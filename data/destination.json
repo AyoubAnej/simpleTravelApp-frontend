@@ -1,0 +1,152 @@
+[
+    {
+        "id": "1",
+        "name": "Tropical Paradise Resort",
+        "image": "https://images.pexels.com/photos/457882/pexels-photo-457882.jpeg",
+        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed euismod.",
+        "rating": "4.8",
+        "duration": "3",
+        "location": "Pacific Ocean",
+        "category": "Beaches"
+    },
+    {
+        "id": "2",
+        "name": "Majestic Mountain Lodge",
+        "image": "https://images.pexels.com/photos/414171/pexels-photo-414171.jpeg",
+        "description": "Explore the serene mountains and enjoy hiking and skiing.",
+        "rating": "4.7",
+        "duration": "5",
+        "location": "Swiss Alps",
+        "category": "Mountains"
+    },
+    {
+        "id": "3",
+        "name": "Emerald Forest Retreat",
+        "image": "https://images.pexels.com/photos/1103970/pexels-photo-1103970.jpeg",
+        "description": "Rejuvenate in the lush greenery of the forest.",
+        "rating": "4.9",
+        "duration": "4",
+        "location": "Amazon Rainforest",
+        "category": "Forests"
+    },
+    {
+        "id": "4",
+        "name": "City Lights Hotel",
+        "image": "https://images.pexels.com/photos/338504/pexels-photo-338504.jpeg",
+        "description": "Experience the vibrant life of the city with luxury accommodations.",
+        "rating": "4.6",
+        "duration": "2",
+        "location": "New York City",
+        "category": "Cities"
+    },
+    {
+        "id": "5",
+        "name": "Crystal Lake House",
+        "image": "https://images.pexels.com/photos/531396/pexels-photo-531396.jpeg",
+        "description": "Relax by the pristine waters of Crystal Lake.",
+        "rating": "4.7",
+        "duration": "3",
+        "location": "Lake Tahoe",
+        "category": "Lakes"
+    },
+    {
+        "id": "6",
+        "name": "Wilderness National Park",
+        "image": "https://images.pexels.com/photos/338504/pexels-photo-338504.jpeg",
+        "description": "Discover the beauty of nature in Wilderness National Park.",
+        "rating": "4.8",
+        "duration": "7",
+        "location": "Yellowstone",
+        "category": "National Parks"
+    },
+    {
+        "id": "7",
+        "name": "Island Escape Resort",
+        "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg",
+        "description": "Unwind on a tranquil island with beautiful beaches and clear waters.",
+        "rating": "4.9",
+        "duration": "5",
+        "location": "Maldives",
+        "category": "Islands"
+    },
+    {
+        "id": "8",
+        "name": "Oceanview Beach Resort",
+        "image": "https://images.pexels.com/photos/457882/pexels-photo-457882.jpeg",
+        "description": "Enjoy ocean views and sandy beaches at this luxurious resort.",
+        "rating": "4.6",
+        "duration": "4",
+        "location": "Hawaii",
+        "category": "Beaches"
+    },
+    {
+        "id": "9",
+        "name": "Mountain Peaks Chalet",
+        "image": "https://images.pexels.com/photos/1567059/pexels-photo-1567059.jpeg",
+        "description": "Stay at a cozy chalet nestled in the mountains.",
+        "rating": "4.8",
+        "duration": "6",
+        "location": "Rocky Mountains",
+        "category": "Mountains"
+    },
+    {
+        "id": "10",
+        "name": "Forest Haven",
+        "image": "https://images.pexels.com/photos/417173/pexels-photo-417173.jpeg",
+        "description": "Find peace and tranquility in the heart of the forest.",
+        "rating": "4.7",
+        "duration": "5",
+        "location": "Black Forest",
+        "category": "Forests"
+    },
+    {
+        "id": "11",
+        "name": "Urban Oasis Hotel",
+        "image": "https://images.pexels.com/photos/338504/pexels-photo-338504.jpeg",
+        "description": "Luxury hotel in the bustling city center.",
+        "rating": "4.5",
+        "duration": "3",
+        "location": "London",
+        "category": "Cities"
+    },
+    {
+        "id": "12",
+        "name": "Blue Lake Lodge",
+        "image": "https://images.pexels.com/photos/3183193/pexels-photo-3183193.jpeg",
+        "description": "Lakeside lodge with stunning views and outdoor activities.",
+        "rating": "4.6",
+        "duration": "4",
+        "location": "Lake District",
+        "category": "Lakes"
+    },
+    {
+        "id": "13",
+        "name": "Grand Canyon Adventure",
+        "image": "https://images.pexels.com/photos/1567059/pexels-photo-1567059.jpeg",
+        "description": "Explore the wonders of the Grand Canyon.",
+        "rating": "4.9",
+        "duration": "5",
+        "location": "Arizona",
+        "category": "National Parks"
+    },
+    {
+        "id": "14",
+        "name": "Island Retreat",
+        "image": "https://images.pexels.com/photos/417173/pexels-photo-417173.jpeg",
+        "description": "A serene retreat on a tropical island.",
+        "rating": "4.8",
+        "duration": "5",
+        "location": "Bora Bora",
+        "category": "Islands"
+    },
+    {
+        "id": "15",
+        "name": "Sunset Beach Resort",
+        "image": "https://images.pexels.com/photos/1450353/pexels-photo-1450353.jpeg",
+        "description": "Relax at this beach resort with stunning sunset views.",
+        "rating": "4.7",
+        "duration": "4",
+        "location": "Bahamas",
+        "category": "Beaches"
+    }
+]
