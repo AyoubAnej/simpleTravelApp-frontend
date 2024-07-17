@@ -7,4 +7,5 @@ export interface ListingType {
     duration: string;
     location: string;
     category: string;
+    price: string;
   }
