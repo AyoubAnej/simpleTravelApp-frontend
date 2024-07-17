@@ -76,7 +76,7 @@ const Page = () => {
           </TouchableOpacity>
         </View>
         <CategoryButton onCategoryChanged={onCatChanged} />
-        <Listings listings={listingData}/>
+        <Listings listings={listingData} category={category} />
       </View>
     </>
   );

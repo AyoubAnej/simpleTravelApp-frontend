@@ -7,7 +7,7 @@ const ListingDetails = () => {
 
   return (
     <View>
-      <Text>ListingDetails</Text>
+      <Text>Listing Details {id}</Text>
     </View>
   );
 };
